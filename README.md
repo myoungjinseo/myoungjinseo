@@ -7,7 +7,7 @@
 
 <img alt="Naver" src ="https://img.shields.io/badge/naver-white.svg?&style=for-the-badge&logo=#03C75A&logoColor=#04cf5c"/>
 
-[![Tech Blog Badge](https://img.shields.io/badge/naver/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
+[![Tech Blog Badge](https://img.shields.io/badge/naver/-naver-white.svg?&style=for-the-badge&logo=#03C75A&logoColor=#04cf5c"logo&link=https://zzsza.github.io/)](https://zzsza.github.io/)
 
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
