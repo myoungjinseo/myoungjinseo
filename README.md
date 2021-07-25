@@ -5,7 +5,7 @@
 
 
 
-[![Tech Blog Badge](https://img.shields.io/badge/naver-naver-white.svg?&style=for-the-badge&logo=#hex&logoColor=green"logo&link=https://blog.naver.com/smjsih/)](https://blog.naver.com/smjsih/)
+[![naver Blog Badge](https://img.shields.io/badge/naver-naver-hex.svg?&style=for-the-badge&logo=#hex&logoColor=green"logo&link=https://blog.naver.com/smjsih/)](https://blog.naver.com/smjsih/)
 
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
