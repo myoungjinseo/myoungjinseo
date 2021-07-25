@@ -5,11 +5,10 @@
 
 
 
-\N
 
 [![naver Blog Badge](https://img.shields.io/badge/Naver_BLOG-03C75A.svg?&style=for-the-badge&logo=#NAVER&logoColor=04CF5C"logo&link=https://blog.naver.com/smjsih/)](https://blog.naver.com/smjsih/)
 
 
-\N
+
 
 <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
