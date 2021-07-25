@@ -7,7 +7,7 @@
 
 
 
-[![naver Blog Badge](https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=#hex&logoColor=hex"logo&link=https://blog.naver.com/smjsih/)](https://blog.naver.com/smjsih/)
+[![naver Blog Badge](https://img.shields.io/badge/Blog-03C75A.svg?&style=for-the-badge&logo=#NAVER&logoColor=hex"logo&link=https://blog.naver.com/smjsih/)](https://blog.naver.com/smjsih/)
 
 
 
