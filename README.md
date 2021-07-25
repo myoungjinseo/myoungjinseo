@@ -6,3 +6,4 @@
 ![naver URL](https://img.shields.io/naver/url?color=%2304cf5c&label=blog&logo=naver&logoColor=%2304cf5c&style=social&url=https://blog.naver.com/smjsih)(https://blog.naver.com/smjsih)
 
 
+![Twitter URL](https://img.shields.io/twitter/url?color=%2304cf5c&label=blog&logo=naver&logoColor=%2304cf5c&style=social&url=https%3A%2F%2Fblog.naver.com%2Fsmjsih)
