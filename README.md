@@ -5,4 +5,4 @@
 
 
 
-<img alt="NAVER URL" src="https://img.shields.io/twitter/url?label=blog&logo=naver&url=https://blog.naver.com/smjsih">
+<img alt="NAVER URL" src="https://img.shields.io/naver/url?label=blog&logo=naver&url="https://blog.naver.com/smjsih">
