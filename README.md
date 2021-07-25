@@ -12,4 +12,4 @@
 
 
 
-<img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
