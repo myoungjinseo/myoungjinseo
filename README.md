@@ -5,3 +5,4 @@
 
 ![naver URL](https://img.shields.io/twitter/url?color=%2304cf5c&label=blog&logo=naver&logoColor=%2304cf5c&style=social&url=https%3A%2F%2Fblog.naver.com%2Fsmjsih)
 
+![Twitter URL](https://img.shields.io/twitter/url?color=%2304cf5c&label=blog&logo=naver&logoColor=%2304cf5c&style=social&url=https%3A%2F%2Fblog.naver.com%2Fsmjsih)
