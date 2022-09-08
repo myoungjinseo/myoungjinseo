@@ -6,15 +6,15 @@
 
 
 
-[![naver Blog Badge](https://img.shields.io/badge/Naver_BLOG-03C75A.svg?&style=for-the-badge&logo=#NAVER&logoColor=04CF5C"logo&link=https://blog.naver.com/smjsih/)](https://blog.naver.com/smjsih/)
+[![naver Blog Badge](https://img.shields.io/badge/Naver_BLOG-03C75A.svg?&style=for-the-badge&logo=#NAVER&logoColor=04CF5C"logo&link=https://blog.naver.com/smjsih/)](https://blog.naver.com/smjsih/) 2021 ~ 2022.09
 
-
-
-
-<img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
 
 <a href="https://velog.io/@myoungjinseo">
     <img 
         src="http://img.shields.io/badge/-velog-222222?style=flat&logo=https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon3/ul-blogger.svg&link=https://velog.io/@myoungjinseo"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+</a>  2022-09~
+
+
+<img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
+
