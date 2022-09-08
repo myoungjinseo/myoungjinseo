@@ -13,8 +13,8 @@
 
 <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
 
-<a href="https://velog.io/@Myoungjinseo">
+<a href="https://velog.io/@myoungjinseo">
     <img 
-        src="http://img.shields.io/badge/-벨로그-222222?style=flat&logo=https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon3/ul-blogger.svg&link=https://velog.io/@Myoungjinseo"
+        src="http://img.shields.io/badge/-velog-222222?style=flat&logo=https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon3/ul-blogger.svg&link=https://velog.io/@myoungjinseo"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
