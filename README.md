@@ -19,3 +19,5 @@
 <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=myoungjinseo)](https://github.com/anuraghazra/github-readme-stats)
+
+![snake gif](https://github.com/myoungjinseo/myoungjinseo/blob/output/github-contribution-grid-snake.svg)
