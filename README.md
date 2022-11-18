@@ -14,7 +14,7 @@ sih5673@gmail.com
 <a href="https://velog.io/@myoungjinseo">
     <img 
         src="http://img.shields.io/badge/-velog-222222?style=flat&logo=https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon3/ul-blogger.svg&link=https://velog.io/@myoungjinseo"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="height : auto; margin-left : 10px; margin-right : 10px; width : 60px ;height : 30px;"/>
 </a>  
 
 
