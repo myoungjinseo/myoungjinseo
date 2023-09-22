@@ -7,19 +7,22 @@ sih5673@gmail.com
 
 
 
-
-[![naver Blog](https://img.shields.io/badge/Naver_BLOG-03C75A.svg?&style=for-the-badge&logo=#NAVER&logoColor=04CF5C"logo&link=https://blog.naver.com/smjsih/)](https://blog.naver.com/smjsih/) 
-
-
+<p>
+<a href="https://blog.naver.com/smjsih/"><img src="https://img.shields.io/badge/Naver_BLOG-03C75A.svg?&style=for-the-badge&logo=#NAVER&logoColor=04CF5C"></a> 
 <a href="https://velog.io/@myoungjinseo">
     <img 
         src="http://img.shields.io/badge/-velog-222222?style=flat&logo=https://raw.githubusercontent.com/eirikmadland/notion-icons/master/v5/icon3/ul-blogger.svg&link=https://velog.io/@myoungjinseo"
         style="height : auto; margin-left : 10px; margin-right : 10px; width : 60px ;height : 30px;"/>
 </a>  
+</p>
+<p>
+    <img src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white">
+    <img src="https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=google&logoColor=google">
+</p>
 
-
-<img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=myoungjinseo)](https://github.com/anuraghazra/github-readme-stats)
 
-![snake gif](https://github.com/myoungjinseo/myoungjinseo/blob/output/github-contribution-grid-snake.svg)
+
