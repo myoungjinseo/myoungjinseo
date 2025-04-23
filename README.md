@@ -21,6 +21,7 @@
 | FundFolio Server |예산 관리 어플리케이션 (기업 과제형 프로젝트)|2023.11|[FundFolioServer]( https://github.com/myoungjinseo/FundFolio)|
 | YamYam Server |지리기반 맛집 추천 웹 서비스|2023.10 - 2023.11|[YamYamServer]( : https://github.com/pre-onboarding/yamyam)|
 | SocialMediaIntegratedFeed Server| 여러 SNS에서 게시물들을 나만의 해시태그를 통해 확인할 수 있는 통합 Feed 어플리케이션(기업 과제형 프로젝트) | 2023.10 |[SocialMediaIntegratedFeedServer](https://github.com/pre-onboarding/Social-media-integrated-feed)|
+| SKHU-CLOCK Server| 교내 종강시계 및 다양한 정보를 주는 사이트 | 2023.07 - 2023.09 |[SKHU-CLOCK Server](https://github.com/skhu-clock/skhu-clock-back)|
 | DontWorry Server |학교 폭력 피해자들에게 위안과 도움을 주려는 웹 어플리케이션|2023.02 - 2023.04|[DontWorry-Server](https://github.com/GDSC-SKHU/2023-DontWorrySolutionChallenge-BackEnd)|
 |FirstStep Server|20살이 된 후배들을 위한 서비스 (해커톤)|2023.01|[FirstStepServer](https://github.com/GDG-on-Campus-SKHU/1Team-FirstStep-BackEnd)|
 
