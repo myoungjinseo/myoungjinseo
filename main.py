@@ -16,6 +16,9 @@ for idx, feed in enumerate(RSS_FEED['entries']):
     link = feed['link']
     markdown_text += f"- **{formatted_date}** — [{title}]({link})\n"
 
+with open("README.md", "r", encoding="utf-8") as f:
+    readme_contents = f.read()
+
 updated_readme = re.sub(
     r"(<!-- BLOG-POST-START -->)(.*?)(<!-- BLOG-POST-END -->)",
     f"\\1\n{markdown_text}\n\\3",
