@@ -5,11 +5,11 @@
 <!-- BLOG-POST-START -->
 ## 📝 Latest Blog Post
 
+- **2025/04/26** — [[CS공부]프로세스란 무엇??](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%9E%80-%EB%AC%B4%EC%97%87)
 - **2025/04/23** — [[요즘IT] MCP는 무엇인가??](https://velog.io/@myoungjinseo/%EC%9A%94%EC%A6%98IT-MCP%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 - **2024/11/20** — [[따로공부] 정규화 이해하기](https://velog.io/@myoungjinseo/%EB%A9%B4%EC%A0%91-%EC%A4%80%EB%B9%84-1.-%EC%A0%95%EA%B7%9C%ED%99%94-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 - **2023/10/16** — [인간처럼 문제 이해하기 BOJ_2178](https://velog.io/@myoungjinseo/%EC%9D%B8%EA%B0%84%EC%B2%98%EB%9F%BC-%EB%AC%B8%EC%A0%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-BOJ2178)
 - **2023/07/19** — [내가 리팩토링을 하는 이유](https://velog.io/@myoungjinseo/%EB%82%B4%EA%B0%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81%EC%9D%84-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
-- **2023/06/30** — [[CS공부] 10분 테크톡 MVC패턴 #1](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80-10%EB%B6%84-%ED%85%8C%ED%81%AC%ED%86%A1-MVC%ED%8C%A8%ED%84%B4-1)
 
 <!-- BLOG-POST-END -->
 ## 💻 &nbsp; Projects
