@@ -5,11 +5,11 @@
 <!-- BLOG-POST-START -->
 ## 📝 Latest Blog Post
 
+- **2025/07/11** — [[CS공부] HTTP 상태코드](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80-HTTP-%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C)
 - **2025/07/09** — [비주얼 스튜디오 코드(VSC)에 대하여](https://velog.io/@myoungjinseo/%EB%B9%84%EC%A3%BC%EC%96%BC-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EC%BD%94%EB%93%9CVSC%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 - **2025/06/11** — [[CS공부] BufferReader와 StringBuilder 그리고 BufferWriter](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80-BufferReader%EC%99%80-StringBuilder-%EA%B7%B8%EB%A6%AC%EA%B3%A0-BufferWriter)
 - **2025/06/10** — [[CS공부] ArrayDeuqe vs Queue](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80-ArrayDeuqe-vs-Queue)
 - **2025/04/26** — [[CS공부]프로세스란 무엇??](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%9E%80-%EB%AC%B4%EC%97%87)
-- **2025/04/23** — [[요즘IT] MCP는 무엇인가??](https://velog.io/@myoungjinseo/%EC%9A%94%EC%A6%98IT-MCP%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 
 <!-- BLOG-POST-END -->
 ## 💻 &nbsp; Projects
