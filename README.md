@@ -5,11 +5,11 @@
 <!-- BLOG-POST-START -->
 ## 📝 Latest Blog Post
 
+- **2025/08/10** — [[CS공부] 데이터](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80-%EB%8D%B0%EC%9D%B4%ED%84%B0)
 - **2025/08/08** — [정리 아닌 정리: Git 편](https://velog.io/@myoungjinseo/%EC%A0%95%EB%A6%AC-%EC%95%84%EB%8B%8C-%EC%A0%95%EB%A6%AC-Git-%ED%8E%B8)
 - **2025/08/01** — [[CS공부]스택 메모리 vs 힙 메모리](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80%EC%8A%A4%ED%83%9D-%EB%A9%94%EB%AA%A8%EB%A6%AC-vs-%ED%9E%99-%EB%A9%94%EB%AA%A8%EB%A6%AC)
 - **2025/07/31** — [[CS공부] 컴퓨터 구조 기초](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80-%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-%EA%B8%B0%EC%B4%88)
 - **2025/07/14** — [[CS공부] 프로세스와 스레드](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C)
-- **2025/07/11** — [[CS공부] HTTP 상태코드](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80-HTTP-%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C)
 
 <!-- BLOG-POST-END -->
 ## 💻 &nbsp; Projects
