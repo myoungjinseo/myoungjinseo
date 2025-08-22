@@ -5,11 +5,11 @@
 <!-- BLOG-POST-START -->
 ## 📝 Latest Blog Post
 
+- **2025/08/22** — [[JAVA] 정렬](https://velog.io/@myoungjinseo/JAVA-%EC%A0%95%EB%A0%AC)
 - **2025/08/21** — [[CS공부] 흔히 발생하는 실수 (응답 시간, 처리량)](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80-%ED%9D%94%ED%9E%88-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%8B%A4%EC%88%98-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%B2%98%EB%A6%AC%EB%9F%89)
 - **2025/08/19** — [[CS공부] 흔히 발생하는 실수 (DB 커넥션 풀)](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80-%ED%9D%94%ED%9E%88-%EB%B0%9C%EC%83%9D%ED%95%98%EB%8A%94-%EC%8B%A4%EC%88%98-DB-%EC%BB%A4%EB%84%A5%EC%85%98-%ED%92%80)
 - **2025/08/14** — [[JAVA] Set 구조 이해](https://velog.io/@myoungjinseo/JAVA-Set-%EA%B5%AC%EC%A1%B0-%EC%9D%B4%ED%95%B4)
 - **2025/08/10** — [[CS공부] 데이터](https://velog.io/@myoungjinseo/CS%EA%B3%B5%EB%B6%80-%EB%8D%B0%EC%9D%B4%ED%84%B0)
-- **2025/08/08** — [정리 아닌 정리: Git 편](https://velog.io/@myoungjinseo/%EC%A0%95%EB%A6%AC-%EC%95%84%EB%8B%8C-%EC%A0%95%EB%A6%AC-Git-%ED%8E%B8)
 
 <!-- BLOG-POST-END -->
 ## 💻 &nbsp; Projects
