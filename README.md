@@ -1,6 +1,6 @@
 # 😃 &nbsp; MyoungJin Seo | 프로젝트를 즐기는 개발자  
 안녕하세요. 새로운 개발을 위해 포스팅과 컨설턴트를 활용하는 백엔드 개발자 서명진입니다.
-- [✏️ 내 블로그](https://velog.io/@myoungjinseo) 
+
 
 <!-- BLOG-POST-START -->
 ## 📝 Latest Blog Post
